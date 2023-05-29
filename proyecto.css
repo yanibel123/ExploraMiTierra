@@ -1,0 +1,34 @@
+@font-face {
+    font-family: menu;
+    src: url("Louis\ George\ Cafe\ Bold.ttf");
+}
+nav{
+    background-color: rgb(92, 166, 174);
+    width: 1150px;
+    height: 57px;
+    padding-left: 280px;
+    font-family: menu;
+    font-size: 20px;
+   
+}
+nav a{
+    top: -10px;
+    position: relative;
+}
+
+footer{
+    width: 1424px;
+    height: 200px;
+    clear: left;
+    font-family: menu;
+    font-size: 20px;
+}
+
+.a1{
+    color:rgb(255, 255, 255);
+    padding: 6px;
+    text-decoration: none;
+    font-size: 15px;
+    margin: 10px;
+    margin-left: -15px;
+}
